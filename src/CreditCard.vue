@@ -96,19 +96,19 @@ const defaultColor = 'grey';
 
 const defaultTranslations = {
     name: {
-        label: 'Name',
-        placeholder: 'Full Name'
+        label: 'Nome',
+        placeholder: 'Nome completo'
     },
     card: {
-        label: 'Card Number',
-        placeholder: 'Card Number'
+        label: 'Número do cartão',
+        placeholder: 'Número do cartão'
     },
     expiration: {
-        label: 'Expiration'
+        label: 'Expira em'
     },
     security: {
-        label: 'Security Code',
-        placeholder: 'Code'
+        label: 'Código de segurança',
+        placeholder: 'Código'
     }
 }
 
@@ -521,7 +521,7 @@ export default {
         }
 
         .st12 {
-            font-family: 'Rock Salt', cursive;
+            font-family: 'Source Code Pro', monospace;
         }
 
         .st13 {
