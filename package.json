@@ -1,7 +1,7 @@
 {
   "private": false,
-  "name": "v-credit-card",
-  "version": "1.2.4",
+  "name": "v-credit-card-form",
+  "version": "1.2.6",
   "description": "Beautiful credit card form component for vueJS",
   "author": {
     "name": "Tiago Amado Durante",
