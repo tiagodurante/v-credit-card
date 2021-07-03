@@ -108,7 +108,7 @@ const defaultTranslations = {
     },
     security: {
         label: 'Código de segurança',
-        placeholder: 'Código'
+        placeholder: 'CVV'
     }
 }
 
